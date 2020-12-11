@@ -1,0 +1,12 @@
+{
+  "id": "{127FAE9A-7D43-5645-75D2-6A9A90927235}",
+  "author": "Ulrich Bittner",
+  "name": "BoseAudioNotification",
+  "url": "https://github.com/ubittner/BoseAudioNotification/",
+  "compatibility": {
+    "version": "5.5"
+  },
+  "version": "1.00",
+  "build": 1,
+  "date": 1607689503
+}

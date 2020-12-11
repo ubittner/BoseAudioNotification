@@ -1,0 +1,15 @@
+{
+  "id": "{4CBC67D6-2F9F-50D5-912A-C48CBB003C95}",
+  "name": "Bose Audio Notification",
+  "type": 3,
+  "vendor": "Bose",
+  "aliases": [
+    "Bose Audio Notification",
+    "Bose Audio Benachrichtigung"
+  ],
+  "url": "https://github.com/ubittner/BoseAudioNotification/",
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "BOSEAN"
+}

@@ -1,0 +1,35 @@
+{
+  "translations": {
+    "de": {
+      "Active": "Aktiv",
+      "Trigger": "Auslöser",
+      "Use": "Aktiv",
+      "Triggering Variable": "Auslösende Variable",
+      "On Change": "Bei Änderung",
+      "On Update": "Bei Aktualisierung",
+      "On Specific Value": "Bei bestimmtem Wert",
+      "Value (On Specific Value)": "Wert (Bei bestimmtem Wert)",
+      "Condition (Value)": "Bedingung (Wert)",
+      "Trigger once": "Einmalige Auslösung",
+      "Trigger every time": "Mehrmalige Auslösung",
+      "Automatic mute": "Automatische Stummschaltung",
+      "End": "Ende",
+      "Bose Audio Notification will be created": "Bose Audio Benachrichtigung wird erstellt",
+      "Bose Audio Notification is active": "Bose Audio Benachrichtigung ist aktiv",
+      "Bose Audio Notification will be deleted": "Bose Audio Benachrichtigung wird gelöscht",
+      "Bose Audio Notification is inactive": "Bose Audio Benachrichtigung ist inaktiv",
+      "An error has occurred, for further information see messages, log file or debug": "Es ist Fehler aufgetreten, weitere Informationen unter Meldungen, im Log oder Debug",
+      "IP-Address (Symcon)": "IP-Adresse (Symcon)",
+      "Output Type": "Ausgabetyp",
+      "Output Device": "Ausgabegerät",
+      "Volume": "Lautstärke",
+      "Notification": "Benachrichtigung",
+      "Abort, the instance is inactive!": "Abbruch, die Instanz ist inaktiv!",
+      "Abort, the instance ": "Abbruch, die Instanz ",
+      " is inactive!": " ist inaktiv!",
+      "Abort, Text-to-Speech (AWS Polly) is invalid!": "Abbruch, Text-to-Speech (AWS Polly) ist ungültig!",
+      "Abort, output device is invalid!": "Abbruch, Ausgabegerät ist ungültig!",
+      "Abort, notification is disabled!": "Abbruch, die Benachrichtigung ist deaktiviert!"
+    }
+  }
+}
