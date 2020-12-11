@@ -11,4 +11,4 @@
 Folgende Module beinhaltet das `BoseAudioNotification` Repository:
 
 - __AudioNotification__ ([Dokumentation](AudioNotification))  
-  Dieses Modul bietet die Möglichkeit von AWS Polly erzeugte Audiodaten über eine Bose Lautsprecher wiederzugeben.
+  Dieses Modul bietet die Möglichkeit von AWS Polly erzeugte Audiodaten über einen Bose Lautsprecher wiederzugeben.
