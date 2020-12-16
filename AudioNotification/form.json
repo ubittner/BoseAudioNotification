@@ -89,53 +89,39 @@
                 "value": 1
               },
               {
+                "caption": "On Limit Drop",
+                "value": 2
+              },
+              {
+                "caption": "On Limit Exceed",
+                "value": 2
+              },
+              {
                 "caption": "On Specific Value",
-                "value": 2
-              }
-            ]
-          }
-        },
-        {
-          "caption": "Value (On Specific Value)",
-          "name": "Value",
-          "width": "200px",
-          "add": 0,
-          "edit": {
-            "type": "Select",
-            "options": [
-              {
-                "caption": "-",
-                "value": 0
-              },
-              {
-                "caption": "0 | false",
-                "value": 1
-              },
-              {
-                "caption": "1 | true",
-                "value": 2
-              },
-              {
-                "caption": "2",
-                "value": 3
-              },
-              {
-                "caption": "3",
                 "value": 4
               }
             ]
           }
         },
         {
-          "caption": "Condition (Value)",
+          "caption": "Value",
+          "name": "Value",
+          "width": "100px",
+          "add": "",
+          "edit": {
+            "type": "ValidationTextBox"
+          }
+        },
+        {
+          "caption": "Condition",
           "name": "Condition",
-          "width": "190px",
+          "width": "170px",
           "add": 0,
           "edit": {
             "type": "Select",
             "options": [
               {
-                "caption": "-",
+                "caption": "No condition",
                 "value": 0
               },
               {
